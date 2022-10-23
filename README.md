@@ -1,4 +1,4 @@
-# FinApi - Financeia
+# FinApi
 
 Requisitos
 * [ ] Deve ser possível criar uma conta
